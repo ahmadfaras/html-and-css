@@ -1,0 +1,1 @@
+Created a repository in GitHub which contains HTML and CSS. 
